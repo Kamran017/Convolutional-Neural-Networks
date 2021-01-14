@@ -1,4 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive.google.com/file/d/10U7b9vJs_SpdpraO52OeYK12ejqNNitL/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10U7b9vJs_SpdpraO52OeYK12ejqNNitL#scrollTo=gsoCHtpcoJHT)
 
 # Convolutional-Neural-Networks
 

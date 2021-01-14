@@ -9,6 +9,6 @@ In this notebook, a convolutional network design will be made on a CINIC-10 data
 ### Realized Models
 <div style="text-align: center;">
 
-![Results](Model Table.jpg)
+![Results](/image/table.jpg)
 
 </div>

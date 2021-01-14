@@ -10,5 +10,6 @@ In this notebook, a convolutional network design will be made on a CINIC-10 data
 <div style="text-align: center;">
 
 ![Results](/image/table.jpg)
+![Results](/Report.pdf)
 
 </div>
